@@ -3,6 +3,7 @@
   <id>me.acristoffers.Lachesis</id>
 
   <name>Lachesis</name>
+  <developer_name>Álan Crístoffer e Sousa</developer_name>
   <summary>Moirai supervisor</summary>
 
   <metadata_license>MIT</metadata_license>
@@ -31,12 +32,16 @@
   <screenshots>
     <screenshot type="default">
       <image>https://acristoffers.me/screenshots/Lachesis1.jpg</image>
+      <caption>Hardware setup</caption>
     </screenshot>
     <screenshot>
       <image>https://acristoffers.me/screenshots/Lachesis2.jpg</image>
+      <caption>Open-loop test setup</caption>
+    </screenshot>
     </screenshot>
     <screenshot>
       <image>https://acristoffers.me/screenshots/Lachesis4.jpg</image>
+      <caption>Results visualization (also in real-time)</caption>
     </screenshot>
   </screenshots>
 </component>
